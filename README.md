@@ -29,13 +29,14 @@ dotnet run --project 01-Variables
 
 ## ✅ Modules disponibles
 <table>
-<th><td>01</td>	<td>Variables</td>	<td>Types de base (int, string, etc.)</td> </th>
+<tr><th>Numéro</th>	<th>Thèmes</th>	<th>Description</th> </tr>
+<tr><td>01</td>	<td>Variables</td>	<td>Types de base (int, string, etc.)</td> </tr>
 <tr><td>02</td>	<td>Conditions</td>	<td>if, else, switch</td></tr>
 <tr><td>03</td>	<td>Boucles</td>	<td>for, while, do, foreach</td></tr>
 <tr><td>04</td>	<td>Collections</td>	<td>Tableaux, Listes</td></tr>
 <tr><td>05</td>	<td>Fonctions</td>	<td>Méthodes, paramètres, retour</td></tr>
 <tr><td>06</td>	<td>Classes & Objets</td>	<td>POO, constructeurs, propriétés</td></tr>
-<tr><td>07</td>	<td>éritage & Polymorph.</td>	<td>virtual, override, héritage</td></tr>
+<tr><td>07</td>	<td>Héritage & Polymorph.</td>	<td>virtual, override, héritage</td></tr>
 <tr><td>08</td>	<td>Exceptions</td>	<td>try, catch, finally</td></tr>
 <tr><td>09</td>	<td>Fichiers</td>	<td>Lire/écrire dans un fichier texte</td></tr>
 <tr><td>10</td>	<td>LINQ</td>	<td>Requêtes sur des listes</td></tr>
