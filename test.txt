@@ -1,0 +1,3 @@
+Bonjour, ceci est un test.
+Bienvenue dans le module fichiers.
+Ligne ajoutée à la fin du fichier.
